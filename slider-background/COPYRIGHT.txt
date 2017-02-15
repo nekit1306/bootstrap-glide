@@ -1,0 +1,4 @@
+
+ GLide - Multi-Purpose Bootstrap Theme
+ Theme is developed by Vita Creative (http://vitacreative.net)
+ Copyright 2015 . All Rights Reserved.
