@@ -1,4 +1,4 @@
-# Bootstrap Template - Glide
+# Bootstrap Template - [Glide](https://nekit1306.github.io/template-glide)
 
 Glide – Multi-purpose One Page  Bootstrap Template for any kind of Websites. Beauty and Creativity lie in One Page. We use latest HTML5 and CSS3, including collection of cool plugins. It is fully Responsive and display perfectly across all modern devices and browsers.
 Versions:3 Theme Versions with a single Image,  Slideshow or a Video Background.
